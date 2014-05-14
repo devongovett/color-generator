@@ -10,7 +10,7 @@ but the color generator can be customized for other uses.
 Returns [color](https://github.com/harthur/color) objects so you can convert the colors to any colorspace
 or CSS string representation easily.
 
-![](https://cloud.githubusercontent.com/assets/19409/2978870/21869258-dbc0-11e3-8a28-38061bbe7dcc.png)
+<img src="http://f.cl.ly/items/022t3g1n1L0x2T3H2s3q/Screen%20Shot%202014-05-14%20at%204.32.45%20PM.png" width="585">
 
 ## Example
 
