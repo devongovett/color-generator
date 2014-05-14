@@ -1,0 +1,31 @@
+{
+  "name": "color-generator",
+  "version": "0.1.0",
+  "description": "Generates colors based on the golden ratio",
+  "main": "index.js",
+  "dependencies": {
+    "color": "^0.6.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.18.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/devongovett/color-generator.git"
+  },
+  "keywords": [
+    "color",
+    "generate",
+    "random"
+  ],
+  "author": "Devon Govett <devongovett@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devongovett/color-generator/issues"
+  },
+  "homepage": "https://github.com/devongovett/color-generator"
+}
